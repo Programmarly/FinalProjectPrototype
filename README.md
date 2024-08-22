@@ -10,6 +10,12 @@ This project is a Flask-based web application that facilitates personalized inte
 - Easy download of feedback reports.
 
 ## Project Structure
-'''main.py''': contains backend routes and controllers.
-'''templates''':responsible for rendering the frontend.
-'''qa''':responsible for managing question list, answers list and feedback report for each user.
+
+- **`main.py`**: Contains backend routes and controllers.
+- **`templates/`**: Responsible for rendering the frontend (HTML files).
+- **`qa/`**: Manages question lists, answer lists, and feedback reports for each user.
+
+
+##Quickstart
+
+-
