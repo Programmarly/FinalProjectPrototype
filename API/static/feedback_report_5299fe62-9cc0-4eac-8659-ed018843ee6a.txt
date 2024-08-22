@@ -1,0 +1,29 @@
+Questions and Answers:
+
+Q1: What is a neural network?
+A1: A neural network is a system of algorithms that attempts to recognize underlying relationships in a set of data.
+
+Q2: Explain the difference between supervised and unsupervised learning.
+A2: Supervised learning involves labeled data, while unsupervised learning deals with unlabeled data.
+
+
+
+Feedback:
+
+**Interviewer:** Mike
+
+**Q1: What is a neural network?**
+
+**Your Response:** A neural network is a system of algorithms that attempts to recognize underlying relationships in a set of data.
+
+**Feedback:** (Sternly) Not bad, but not good enough. You've just scratched the surface. In machine learning, a neural network is actually a collection of algorithms inspired by biological neurons. It's designed to recognize patterns and make predictions based on data that can be used for image recognition, speech synthesis, or decision making in various tasks. Your answer lacks depth and specifics about how it works.
+
+**Q2: Explain the difference between supervised and unsupervised learning.**
+
+**Your Response:** Supervised learning involves labeled data, while unsupervised learning deals with unlabeled data.
+
+**Feedback:** (Disapprovingly) Basic, too basic. While your statement is correct, it fails to explain why these distinctions are important or how they impact the choice of algorithms and models used in each type of learning. In supervised learning, you have labeled examples that help the model learn to make predictions. This approach requires a clear understanding of the relationships between inputs and desired outputs. On the other hand, unsupervised learning involves discovering hidden patterns without prior knowledge of what those patterns might look like or where they might lead. Your answer lacks insight into how these approaches differ in terms of goals and methodologies.
+
+**Please proceed with Q3.**
+
+(Note: The feedback provided is meant to challenge your understanding based on the minimalistic but precise questions asked, not to provide a detailed lecture or course material.)

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Report</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Feedback Report</h1>
+        
+        <!-- Form to generate feedback -->
+        <button id="generate-feedback-btn">Generate Feedback</button>
+        <button id="download-btn" style="display: none;">Download Detailed Report</button>
+        
+        <!-- Form to enter UUID for download -->
+        <div id="uuid-form" style="display: none;">
+            <input type="text" id="uuid-input" placeholder="Enter UUID">
+            <button id="download-report-btn">Download Report</button>
+        </div>
+        
+        <p id="feedback-text"></p>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
