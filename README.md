@@ -17,7 +17,7 @@ This project is a Flask-based web application that facilitates personalized inte
 - **`static`**: Responsible for static assets rendering like js or css.
 
 
-##Quickstart
+## Quickstart
 
 - **`pip install -r requirements.txt`**
 - Change the path where you need your detailed reports for each user session id in `main.py` at line 86. 
