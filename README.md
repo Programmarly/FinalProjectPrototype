@@ -18,4 +18,5 @@ This project is a Flask-based web application that facilitates personalized inte
 
 ##Quickstart
 
--
+- **`pip install -r requirements.txt`**
+- **Change the path where you need your detailed reports for each user session id. **
