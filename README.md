@@ -14,6 +14,7 @@ This project is a Flask-based web application that facilitates personalized inte
 - **`main.py`**: Contains backend routes and controllers.
 - **`templates/`**: Responsible for rendering the frontend (HTML files).
 - **`qa/`**: Manages question lists, answer lists, and feedback reports for each user.
+- **`static`**: Responsible for static assets rendering like js or css.
 
 
 ##Quickstart
